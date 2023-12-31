@@ -1,4 +1,4 @@
-<h2><a href="https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/javascript">1. Even or Odd</a></h2><h3>8 kyu</h3><hr><div><p>Create a function that takes an integer as an argument and returns <code>"Even"</code> for even numbers or <code>"Odd"</code>for odd numbers.</p>
+<h2><a href="https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/javascript">1. Even or Odd</a></h2><h3>8 kyu</h3><hr><div><p>Create a function that takes an integer as an argument and returns <code>"Even"</code> for even numbers or <code>"Odd"</code> for odd numbers.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Sample Tests:</strong></p>
