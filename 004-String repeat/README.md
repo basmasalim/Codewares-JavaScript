@@ -1,4 +1,4 @@
-<h2><a href="https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/javascript">4. String repeat</a></h2><h3>8 kyu</h3><hr><div>
+<h2><a href="https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/javascript" target="_blank">4. String repeat</a></h2><h3>8 kyu</h3><hr><div>
 
 Write a function that accepts an integer `n` and a string `s` as parameters, and returns a string of `s` repeated exactly `n` times.
 
