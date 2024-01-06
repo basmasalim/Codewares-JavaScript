@@ -1,13 +1,17 @@
 <h2><a href="https://www.codewars.com/kata/576b93db1129fcf2200001e6/train/javascript">3. Sum without highest and lowest number</a></h2><h3>8 kyu</h3><hr><div>
-<p>Sum all the numbers of a given array ( cq. list ), except the highest and the lowest element ( by value, not by index! ).</p><br>
-<p>The highest or lowest element respectively is a single element at each edge, even if there are more than one with the same value.</p><br>
-<p>Mind the input validation.</p><br>
-<bold>Example</bold>
-`{ 6, 2, 1, 8, 10 } => 16
-{ 1, 1, 11, 2, 3 } => 6`
+  
+Sum all the numbers of a given array ( cq. list ), except the highest and the lowest element ( by value, not by index! ).<br>
+The highest or lowest element respectively is a single element at each edge, even if there are more than one with the same value.<br>
+Mind the input validation.
 
-<bold>Input validation</bold>
-<p>If an empty value ( `null`, `None`, `Nothing` etc. ) is given instead of an array, or the given array is an empty list or a list with only `1` element, return `0`.</p>
+  
+## **Example**
+`{ 6, 2, 1, 8, 10 } => 16`
+`{ 1, 1, 11, 2, 3 } => 6`
+
+
+## **Input validation**
+If an empty value ( `null`, `None`, `Nothing` etc. ) is given instead of an array, or the given array is an empty list or a list with only `1` element, return `0`.
 
 
 <p>&nbsp;</p>
