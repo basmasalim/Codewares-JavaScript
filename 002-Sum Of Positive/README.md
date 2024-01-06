@@ -3,7 +3,7 @@
 <p>&nbsp;</p>
 <p><strong class="example">Sample Tests:</strong></p>
 
-```js
+```
 const { assert } = require("chai")
 
 describe("Basic tests", () => {
