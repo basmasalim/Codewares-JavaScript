@@ -1,0 +1,31 @@
+<h2><a href="https://www.codewars.com/kata/576b93db1129fcf2200001e6/train/javascript">3. Sum without highest and lowest number</a></h2><h3>8 kyu</h3><hr><div>
+<p>Sum all the numbers of a given array ( cq. list ), except the highest and the lowest element ( by value, not by index! ).</p><br>
+<p>The highest or lowest element respectively is a single element at each edge, even if there are more than one with the same value.</p><br>
+<p>Mind the input validation.</p><br>
+<bold>Example</bold>
+`{ 6, 2, 1, 8, 10 } => 16
+{ 1, 1, 11, 2, 3 } => 6`
+
+<bold>Input validation</bold>
+<p>If an empty value ( `null`, `None`, `Nothing` etc. ) is given instead of an array, or the given array is an empty list or a list with only `1` element, return `0`.</p>
+
+
+<p>&nbsp;</p>
+<p><strong class="example">Sample Tests:</strong></p>
+
+```js
+const {assert} = require("chai");
+
+it("example tests", ()=>{
+  assert.strictEqual( sumArray(null)                     , 0 );
+  assert.strictEqual( sumArray([ ])                      , 0 );
+  assert.strictEqual( sumArray([ 3 ])                    , 0 );
+  assert.strictEqual( sumArray([ 3, 5 ])                 , 0 );
+  assert.strictEqual( sumArray([ 6, 2, 1, 8, 10 ])       , 16 );
+  assert.strictEqual( sumArray([ 0, 1, 6, 10, 10 ])      , 17 );
+  assert.strictEqual( sumArray([ -6, -20, -1, -10, -12 ]), -28 );
+  assert.strictEqual( sumArray([ -6, 20, -1, 10, -12 ])  , 3 );
+});
+```
+
+</div>
