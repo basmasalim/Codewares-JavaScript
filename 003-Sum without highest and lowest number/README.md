@@ -6,7 +6,7 @@ Mind the input validation.
 
   
 ## **Example**
-```js
+```
 { 6, 2, 1, 8, 10 } => 16
 { 1, 1, 11, 2, 3 } => 6
 ```
