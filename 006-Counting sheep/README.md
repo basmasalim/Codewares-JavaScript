@@ -13,7 +13,7 @@ Consider an array/list of sheep where some sheep may be missing from their place
 ```
 The correct answer would be `17`.
 
-Hint: Don't forget to check for bad values like `null`/`undefined`
+**Hint**: Don't forget to check for bad values like `null`/`undefined`
 
 ## **Sample Tests:**
 
