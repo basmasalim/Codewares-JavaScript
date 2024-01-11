@@ -30,5 +30,6 @@ Test.assertSimilar(basicOp('/', 49, 7), 7);
 ```
 
 ## **Note:**
-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval">eval()</a>
+- [eval()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval)
+  
 </div>
