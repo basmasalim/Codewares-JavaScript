@@ -12,4 +12,4 @@
 * [6. Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556/train/javascript) - [Solution](./8-kyu/6-countSheeps.js)
 * [7. Opposite number](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript) - [Solution](./8-kyu/7-opposite.js)
 * [8. Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102/train/javascript) - [Solution](./8-kyu/8-makeNegative.js)
-* [9.Jenny's secret message](https://www.codewars.com/kata/55225023e1be1ec8bc000390/train/javascript) - [Solution](./8-kyu/9-greet.js)
+* [9. Jenny's secret message](https://www.codewars.com/kata/55225023e1be1ec8bc000390/train/javascript) - [Solution](./8-kyu/9-greet.js)
