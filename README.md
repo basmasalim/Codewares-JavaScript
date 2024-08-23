@@ -34,3 +34,5 @@
 * [028. Do I Get A Bonus](https://www.codewars.com/kata/56f6ad906b88de513f000d96/train/javascript) - [Solution](./8-kyu/28-bonusTime.js)
 * [029. Exclamation marks](https://www.codewars.com/kata/57fae964d80daa229d000126/train/javascript) - [Solution](./8-kyu/29-remove.js)
 * [030. Are You Playing Banjo?](https://www.codewars.com/kata/55225023e1be1ec8bc000390/train/javascript) - [Solution](./8-kyu/30-areYouPlayingBanjo.js)
+* [031. Removing Elements](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2/train/javascript) - [Solution](./8-kyu/31-removeEveryOther.js)
+* [032. Unfinished Loop - Bug Fixing #1](https://www.codewars.com/kata/55c28f7304e3eaebef0000da/train/javascript) - [Solution](./8-kyu/32-createArray.js)
