@@ -6,4 +6,4 @@ var summation = function (num) {
   return sum;
 };
 
-console.log(summation(8)); // 1+2+3
+console.log(summation(3)); // 1+2+3

@@ -56,3 +56,8 @@
 - [048. Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030/train/javascript) - [Solution](./8-kyu/48-summation.js)
 - [049. Printing Array elements with Comma delimiters](https://www.codewars.com/kata/56e2f59fb2ed128081001328/train/javascript) - [Solution](./8-kyu/49-printArray.js)
 - [050. How many stairs will Suzuki climb in 20 years?](https://www.codewars.com/kata/56fc55cd1f5a93d68a001d4e/train/javascript) - [Solution](./8-kyu/50-stairsIn20.js)
+- [051. Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/javascript) - [Solution](./8-kyu/51-removeChar.js)
+- [052. Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f/train/javascript) - [Solution](./8-kyu/52-squareSum.js)
+- [053. Find the smallest integer in the array](https://www.codewars.com/kata/55a2d7ebe362935a210000b2/train/javascript) - [Solution](./8-kyu/53-findSmallestInt.js)
+- [054. Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086/train/javascript) - [Solution](./8-kyu/54-isDivisible.js)
+- [055. Beginner - Lost Without a Map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/train/javascript) - [Solution](./8-kyu/55-maps.js)
