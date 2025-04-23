@@ -61,3 +61,4 @@
 - [053. Find the smallest integer in the array](https://www.codewars.com/kata/55a2d7ebe362935a210000b2/train/javascript) - [Solution](./8-kyu/53-findSmallestInt.js)
 - [054. Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086/train/javascript) - [Solution](./8-kyu/54-isDivisible.js)
 - [055. Beginner - Lost Without a Map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/train/javascript) - [Solution](./8-kyu/55-maps.js)
+- [056. Fake Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d/train/javascript) - [Solution](./8-kyu/56.fakeBin.js)
