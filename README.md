@@ -63,3 +63,4 @@
 - [055. Beginner - Lost Without a Map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/train/javascript) - [Solution](./8-kyu/55-maps.js)
 - [056. Fake Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d/train/javascript) - [Solution](./8-kyu/56-fakeBin.js)
 - [057. Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/train/javascript) - [Solution](./8-kyu/57-sum.js)
+- [058. Simple multiplication](https://www.codewars.com/kata/583710ccaa6717322c000105/train/javascript) - [Solution](./8-kyu/58-simpleMultiplication.js)
