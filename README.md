@@ -65,3 +65,4 @@
 - [057. Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/train/javascript) - [Solution](./8-kyu/57-sum.js)
 - [058. Simple multiplication](https://www.codewars.com/kata/583710ccaa6717322c000105/train/javascript) - [Solution](./8-kyu/58-simpleMultiplication.js)
 - [059. MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/train/javascript) - [Solution](./8-kyu/59-makeUpperCase.js)
+- [060. Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript) - [Solution](./8-kyu/60-arrayPlusArray.js)
