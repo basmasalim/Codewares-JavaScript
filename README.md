@@ -64,3 +64,4 @@
 - [056. Fake Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d/train/javascript) - [Solution](./8-kyu/56-fakeBin.js)
 - [057. Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/train/javascript) - [Solution](./8-kyu/57-sum.js)
 - [058. Simple multiplication](https://www.codewars.com/kata/583710ccaa6717322c000105/train/javascript) - [Solution](./8-kyu/58-simpleMultiplication.js)
+- [059. MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/train/javascript) - [Solution](./8-kyu/59-makeUpperCase.js)
